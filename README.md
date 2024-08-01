@@ -1,3 +1,3 @@
 # my-express-template
 
-for new express backend..?
+for new express project..?
